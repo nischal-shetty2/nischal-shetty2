@@ -1,4 +1,4 @@
-# Hey Nischal Shetty!
+# Hey, Im Nischal Shetty!
 I'm all about coding, especially into web development and DSA, Currently a student at AJIET Mangalore!
 
 ##  Technologies & Tools
