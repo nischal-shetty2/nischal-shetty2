@@ -17,7 +17,6 @@ I'm all about coding, especially into web development and DSA, Currently a stude
 ## Currently Learning
 
 - React
-- SQL and MongoDB
 
 ## Let's Connect!
 
