@@ -3,19 +3,15 @@ trying to bring my ideas into reality, Currently a student at AJIET Mangalore!
 
 ##  Technologies & Tools
 
-Languages:
-
-
+Languages :
 JavaScript,
 TypeScript,
 HTML,
 CSS,
 C,
-C++,
+C++
 
-FrameWorks:
-
-
+FrameWorks :
 NextJs,
 ReactJs,
 Tailwind,
@@ -24,18 +20,16 @@ Express.js,
 Node.js
 
 
-Database:
-
-
+Database :
 PostgreSQL,
 Prisma,
 MongoDB,
 
 ## Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nischal-shetty-2ba446272/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-white?style=flat&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/nischal-shetty-2ba446272/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/NischalShetty02)
-[![Instagram](https://img.shields.io/badge/-Instagram-white?style=flat&logo=instagram&logoColor=black)](https://www.instagram.com/nischal.shetty_2/)
+[![Instagram](https://img.shields.io/badge/-Instagram-white?style=flat&logo=instagram&logoColor=purple)](https://www.instagram.com/nischal.shetty_2/)
 
 
-📧 **Email:** [nischal.shetty02@gmail.com](mailto:nischal.shetty02@gmail.com)
+**Email:** [nischal.shetty02@gmail.com](mailto:nischal.shetty02@gmail.com)
