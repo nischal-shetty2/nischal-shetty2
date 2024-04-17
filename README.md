@@ -1,29 +1,20 @@
 # Hey, Im Nischal Shetty!
-trying to bring my ideas into reality, Currently a student at AJIET Mangalore!
+Trying to bring my ideas into reality, Currently a student at AJIET Mangalore!
 
 ##  Technologies & Tools
-
 Languages :
-JavaScript,
-TypeScript,
-HTML,
-CSS,
-C,
-C++
+JavaScript,TypeScript,HTML,CSS,C,C++
 
 FrameWorks :
-NextJs,
-ReactJs,
-Tailwind,
-Bootstrap,
-Express.js,
-Node.js
+NextJs,ReactJs,Tailwind,Bootstrap,Express.js,Node.js
 
 
 Database :
-PostgreSQL,
-Prisma,
-MongoDB,
+PostgreSQL,MongoDB
+
+Skills :
+Docker,Zod,Prisma
+
 
 ## Let's Connect!
 
