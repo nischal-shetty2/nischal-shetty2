@@ -3,17 +3,17 @@ Trying to bring my ideas into reality, Currently a student at AJIET Mangalore!
 
 ##  Technologies & Tools
 Languages :
-JavaScript,TypeScript,HTML,CSS,C,C++
+TypeScript, JavaScript, HTML, CSS, C, C++, Java
 
 FrameWorks :
-NextJs,ReactJs,Tailwind,Bootstrap,Express.js,Node.js
+NextJs, ReactJs, Tailwind, Bootstrap, Express.js, Node.js
 
 
 Database :
-PostgreSQL,MongoDB
+PostgreSQL, MongoDB
 
 Skills :
-Docker,Zod,Prisma
+Docker, Zod, Prisma
 
 
 ## Let's Connect!
