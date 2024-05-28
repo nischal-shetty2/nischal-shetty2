@@ -13,7 +13,7 @@ Database :
 PostgreSQL, MongoDB
 
 Skills :
-Docker, Zod, Prisma
+Docker, Zod, Prisma, Postman
 
 
 ## Let's Connect!
